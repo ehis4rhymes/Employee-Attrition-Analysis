@@ -1,2 +1,3 @@
 # Employee-Attrition-Analysis
-This is my final project with Utiva using Python to analyze employee attrition in of a company
+
+This is my final project with Utiva using Python to analyze employee attrition of a company
